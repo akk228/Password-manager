@@ -3,7 +3,9 @@ It is a simple password manager
 
 This is a password manager written on Python.
 
-To launch it install packae cryptography with pip install cryptography
+Before launch it install packae cryptography with pip install cryptography
+
+to launch it enter command python3 LAUNCH.py
 
 How to use it:
 1) You create your password-protected account first. There could be any number of accounts
